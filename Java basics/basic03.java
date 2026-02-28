@@ -12,7 +12,7 @@ public class basic03 {
 
         float revenue=salesprice+gstprice;
         System.out.printf("Final Revenue = %.1f",revenue);
-
         sc.close();
     }
 }
+
