@@ -74,7 +74,7 @@ public class conditional05 {
                     award="Minimal";
                 }
                 else{
-                    status="Non Eligible";
+                    status="Non- Eligible";
                     amount=0;
                     award="None";
                 }
