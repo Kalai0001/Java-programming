@@ -41,6 +41,7 @@ public class array2d06 {
             }
         }
         System.out.printf("Busiest Hour: Hour %d with %d vehicles\n",index+1,max);
-        sc.close();
+        
+sc.close();
     }
 }
