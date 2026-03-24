@@ -40,6 +40,7 @@ public class array2d07 {
         System.out.printf("Total Inventory: %d\n",total);
         System.out.printf("Max Stock Zone: Row %d, Col %d (%d units)\n",index1,index2,max);
         System.out.printf("Average Stock per Zone: %d\n",(int)average);
-        sc.close();
+
+sc.close();
     }
 }
