@@ -44,6 +44,7 @@ public class array2d05 {
         System.out.printf("Maximum Temperature: %d C at position (%d, %d)\n",max,index1,index2);
         System.out.printf("Minimum Temperature: %d C at position (%d, %d)\n",min,index3,index4);
         System.out.printf("Average Temperature: %d C\n",(int)average);
-        sc.close();
+        
+sc.close();
     }
 }
