@@ -36,6 +36,7 @@ public class array2d02 {
         System.out.printf("Booked Seats: %d\n",bookcount);
         System.out.printf("Available Seats: %d\n",availableseats);
         System.out.printf("Occupancy rate: %.2f%%\n",occupancyrate);
-        sc.close();
+        
+sc.close();
     }
 }
