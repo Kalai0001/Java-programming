@@ -33,6 +33,7 @@ public class array2d01 {
             double average=((double)total/(double)r)*100;
             System.out.printf("Subject %d: %d\n",j+1,(int)average);
         }
-        sc.close();
+        
+sc.close();
     }
 }
