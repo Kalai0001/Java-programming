@@ -24,6 +24,7 @@ public class nested07 {
                 System.out.println();
             }
         }
+
         sc.close();
     }
 }
