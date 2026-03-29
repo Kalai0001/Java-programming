@@ -117,6 +117,7 @@ public class conditional18 {
         System.out.printf("Total Shipping Cost: $%.2f\n",totalcost);
         System.out.printf("Estimated Delivery: %d business days\n",estimateddelivery);
         System.out.printf("Srvice Level: %s\n",servicelevel);
+
         sc.close();
     }
 }
