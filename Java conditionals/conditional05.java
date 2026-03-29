@@ -90,6 +90,7 @@ public class conditional05 {
         System.out.printf("Eligibility: %s\n",status);
         System.out.printf("Award Amount: $%.1f\n",amount);
         System.out.printf("Award Category: %s\n",award);
+
         sc.close();
     }
 }
