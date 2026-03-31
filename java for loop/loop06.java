@@ -46,6 +46,7 @@ public class loop06 {
         System.out.printf("Failed Withdrawals: %d\n",failedwithdrawount);
         System.out.printf("Final Balance: $%.1f\n",finalbalance);
         System.out.printf("Total Withdrawn: $%.1f\n",transactionapproved);
+
         sc.close();
     }
 }
