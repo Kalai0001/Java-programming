@@ -10,7 +10,6 @@ public class pattern08{
             }   
             System.out.println();     
         }
-
         sc.close();
     }
 }
