@@ -56,6 +56,7 @@ public class loop19 {
         System.out.printf("Active Warranties: %d\n",activewarranties);
         System.out.printf("Expiring Soon: %d\n",expiresoon);
         System.out.printf("Expired Warranties: %d\n",expired);
+
         sc.close();
     }
 }
