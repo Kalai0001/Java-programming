@@ -17,6 +17,7 @@ public class nested17 {
             }
             System.out.println();
         }
+
         sc.close();
     }
 }
