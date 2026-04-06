@@ -35,7 +35,6 @@ public class nested08 {
         }
         System.out.println();
         System.out.printf("Perfect Atttendance: %d",perfect);
-
         sc.close();
         }
         
