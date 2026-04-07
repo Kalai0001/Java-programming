@@ -61,6 +61,7 @@ public class loop04 {
         System.out.printf("Total Sales: $%.1f\n",totalsales);
         System.out.printf("Total Commissions: $%.1f\n",totalcommission);
         System.out.printf("Top Performer: %s\n",topperformer);
+
         sc.close();
     }
 }
