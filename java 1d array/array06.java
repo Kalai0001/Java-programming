@@ -35,6 +35,7 @@ public class array06 {
             }
         }
         System.out.printf("]");
+
         sc.close();
     }
 }
