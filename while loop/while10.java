@@ -16,6 +16,7 @@ public class while10 {
             b=c;
             x--;
         }
+
         sc.close();
     }
 }
