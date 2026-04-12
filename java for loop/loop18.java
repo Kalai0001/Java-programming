@@ -51,6 +51,7 @@ public class loop18 {
         System.out.printf("Lowest Temperature: %.1fC at Hour %d\n",lowtemp,hr2);
         System.out.printf("Hot Hours: %d\n",hotcount);
         System.out.printf("Cold Hours: %d\n",coldcount);
+
         sc.close();
     }
 }
