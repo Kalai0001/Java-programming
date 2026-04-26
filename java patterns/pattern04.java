@@ -13,7 +13,7 @@ public class pattern04 {
             }
             System.out.println();
         }
-
+ 
         sc.close();
     }
 }
