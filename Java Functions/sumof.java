@@ -17,6 +17,7 @@ public class sumof {
         int num=sc.nextInt();
         int res=sumofdigits(num);
         System.out.println(res);
+
         sc.close();
     }
 }
