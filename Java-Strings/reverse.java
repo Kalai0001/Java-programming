@@ -10,7 +10,6 @@ public class reverse {
             
         }
         System.out.println(s2);
-
         sc.close();
     }
 }
