@@ -32,6 +32,7 @@ public class runcodeencoding {
         else{
             System.out.println("Compression Ratio: 0.00% (Actually negative gain or same)");
         }
+
         sc.close();
     }
 }
