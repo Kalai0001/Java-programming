@@ -10,6 +10,7 @@ public class operator05 {
         else{
             System.out.println("Rejected");
         }
+
         sc.close();
     }
 }
