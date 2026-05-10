@@ -28,6 +28,7 @@ public class array04 {
         System.out.printf("Minimum Temperature: : %.2f C\n",min);
         System.out.printf("Temperature Range: %.2f C\n",range);
         System.out.printf("Average Temperature: %.2f C\n",Average);
+
         sc.close();
     }
 }
