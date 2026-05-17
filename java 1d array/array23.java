@@ -46,6 +46,7 @@ public class array23 {
             }
         }
         System.out.print("]");
+
         sc.close();
     }
 }
