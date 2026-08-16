@@ -19,6 +19,7 @@ public class vowel {
         }
         System.out.printf("Vowel: %d\n", vcount);
         System.out.printf("Consonant: %d\n", ccount);
+        
         sc.close();
     }
 }
