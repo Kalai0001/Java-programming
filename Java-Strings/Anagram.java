@@ -39,6 +39,7 @@ public class Anagram {
         else{
             System.out.println("Not an Anagram");
         }
+        
         sc.close();
     }
 }
