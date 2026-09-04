@@ -19,6 +19,7 @@ public class powerofdigit {
         int b=sc.nextInt();
         int res=powerofnum(a,b);
         System.out.println(res);
+        
         sc.close();
     }
 }
