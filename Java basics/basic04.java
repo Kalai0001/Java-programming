@@ -11,6 +11,7 @@ class basic04{
         int pay=tutionfees-percent+examfee+libraryfees;
 
         System.out.printf("Final Payable Fee = %d",pay);
+        
         sc.close();
     }
 }
