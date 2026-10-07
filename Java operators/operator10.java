@@ -10,6 +10,7 @@ public class operator10 {
         else{
             System.out.println("Normal");
         }
+
         sc.close();
     }
 }
