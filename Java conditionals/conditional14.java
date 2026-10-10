@@ -90,6 +90,7 @@ public class conditional14 {
         System.out.printf("Contract Total: $%.1f\n",contracttotal);
         System.out.printf("Savings vs Month-to-Month: $%.1f\n",savings);
         System.out.printf("Membership Category: %s\n",membershipcategory);
+        
         sc.close();
     }
 }
