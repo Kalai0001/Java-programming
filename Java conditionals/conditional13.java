@@ -82,6 +82,7 @@ public class conditional13{
         System.out.printf("Student Activity: $%.1f\n",activityfee);
         System.out.printf("Total Registration Fee: $%.1f\n",totalfee);
         System.out.printf("Fee Category: %s\n",feecategory);
+        
         sc.close();
     }
 }
