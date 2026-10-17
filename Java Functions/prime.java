@@ -25,6 +25,7 @@ public class prime {
         int num=sc.nextInt();
         String res=primenum(num);
         System.out.println(res);
+
         sc.close();
     }
 }
