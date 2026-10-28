@@ -7,7 +7,6 @@ public class basic11 {
         int maintenance=sc.nextInt();
         int allowance=sc.nextInt();
         int subsidy=sc.nextInt();
-
         int transportfee=(distance*rate)+maintenance+allowance-subsidy;
         System.out.printf("Total Transport Fee = %d",transportfee);
         sc.close();
