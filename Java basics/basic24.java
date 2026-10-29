@@ -11,6 +11,7 @@ public class basic24 {
 
         int remainingfund=register+broadcast+sponsor-prize-rent-advertising;
         System.out.printf("Remaining Tournament Fund = %d",remainingfund);
+        
         sc.close();
     }
 }
