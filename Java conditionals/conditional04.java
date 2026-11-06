@@ -52,7 +52,6 @@ public class conditional04 {
         double price=(cartvalue*totaldiscount)/100;
         double finalprice=cartvalue-price;
         
-
         System.out.printf("Loyalty Tier: %s\n",loyaltier);
         System.out.printf("Cart Value: %.1f\n",cartvalue);
         System.out.printf("Product Category: %s\n",product);
