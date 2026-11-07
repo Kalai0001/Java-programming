@@ -34,6 +34,7 @@ public class array15 {
         System.out.printf("Longest Call: %d seconds\n",max);
         System.out.printf("Calls Exceeding Target (300s): %d\n",count);
         System.out.printf("Target Compilance: %.2f%%\n",compilance);
+        
         sc.close();
     }
 }
