@@ -12,5 +12,4 @@ public class addnum{
         System.out.println("Sum = "+res);
         sc.close();
     }
-    
 }
