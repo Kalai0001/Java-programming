@@ -52,6 +52,7 @@ public class emailvalidator {
                 System.out.printf("%s-Invalid\n",s1);
             }
         }
+        
         sc.close();
     }
 }
