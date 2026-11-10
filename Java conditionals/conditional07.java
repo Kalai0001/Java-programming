@@ -42,6 +42,7 @@ public class conditional07 {
         System.out.printf("Triage Priority: %s\n",triagepriority);
         System.out.printf("Estimated Wait Time: %d minutes\n",waittime);
         System.out.printf("Recommended Action: %s\n",action);
+
         sc.close();
     }
 }
