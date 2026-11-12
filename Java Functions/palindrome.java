@@ -21,6 +21,7 @@ public class palindrome {
         int num=sc.nextInt();
         String res=palindromenum(num);
         System.out.println(res);
+        
         sc.close();
     }
 }
