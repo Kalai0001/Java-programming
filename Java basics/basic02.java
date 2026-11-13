@@ -14,6 +14,7 @@ class basic02{
         // float totalbill=bill+percent;
 
         System.out.printf("Total Bill = %.2f",percent);
+
         sc.close();
     }
 }
