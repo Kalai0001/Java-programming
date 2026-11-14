@@ -14,6 +14,7 @@ public class while05 {
         }
         System.out.printf("Original: %d\n",original);
         System.out.printf("Reversed: %d\n",rev);
+
         sc.close();
     }
 }
