@@ -10,7 +10,6 @@ public class operator06 {
         else{
             System.out.println("Not Granted");
         }
-
         sc.close();
     }
 }
